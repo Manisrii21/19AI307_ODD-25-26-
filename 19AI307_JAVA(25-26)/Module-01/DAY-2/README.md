@@ -77,8 +77,3 @@ public class Demo
 ## Result:
 Thus, the program to implement the conditional statements using the JAVA programming is successfull.
 
-
-
-
-## RESULT:
-Thus, the Java program to implement conditional statements for the haunted house lighting system was successfully executed.
